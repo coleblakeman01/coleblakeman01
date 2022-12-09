@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3>I am a web devloper soecialized in HTML, CSS, & Javascript</h3>
+<h1>I am a web devloper soecialized in HTML, CSS, & Javascript</h1>
 
 <!--
 **coleblakeman01/coleblakeman01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
