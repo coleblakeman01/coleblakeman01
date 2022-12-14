@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h4>I am a font-end devloper using HTML, CSS, & Javascript</h4>
+<h4>I am a front-end devloper using HTML, CSS, & Javascript</h4>
 <h4>I am also a 3D Animator and Modeler, my work can be found on my website www.ColeBlakeman.com<h4>
 
 <!--
